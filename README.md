@@ -13,5 +13,5 @@
 <img align="center" title="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" title="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> <img align="center" title="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" title="Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 
 ### Descrição:
-API de Produtos desenvolvida para estudo. Foi utilizado no dsenvolvimento, a Framework Spring Boot com Postgres para repositóro. Após construída foi realizado o deploy da API no Heroku para que ela possa ser consumida pelo aplicativo: [Produtos-Flutter]([https://github.com/lucasoliveirasouza/produtos-flutter])
+API de Produtos desenvolvida para estudo. Foi utilizado no dsenvolvimento, a Framework Spring Boot com Postgres para repositóro. Após construída foi realizado o deploy da API no Heroku para que ela possa ser consumida pelo aplicativo: [Produtos]([https://github.com/lucasoliveirasouza/produtos-flutter])
 
